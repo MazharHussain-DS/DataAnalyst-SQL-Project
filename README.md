@@ -1,1 +1,2 @@
 # DataAnalyst-SQL-Project
+Hello, My Name is Mazhar and this is my Git Hub channel. Here I am building my portfolio Project that I learn from expert like AlexTheAnalyst, Luke Barousse, Dhaval Patel,Mo chen and other famous youtube channels. This Repository will hold all of the code and queries from the Portfolio Projects I create. Feel free to take these ideas and make them your own. Explore, adapt, and uncover your own insights—I truly hope this proves valuable and supports you in your future journey! 😊
